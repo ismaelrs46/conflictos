@@ -17,6 +17,7 @@ public class ConflictosGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Escrito por Ismael");
+        System.out.println("linea añadida por Ismael");
         System.out.println("Linea añadida por Andrea");
     }
     
